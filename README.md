@@ -2,6 +2,8 @@
 
 This project fetches and displays RSS feed data from the Times of India using Laravel. The data is displayed in a table with searching, sorting, and pagination functionalities.
 
+RSS feed: https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms?feedtype=json
+
 ## Requirements
 
 - PHP >= 7.3
