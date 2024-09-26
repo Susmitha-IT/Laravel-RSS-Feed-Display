@@ -6,32 +6,10 @@ RSS feed: https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms?feedtype=
 
 ## Requirements
 
-- PHP >= 7.3
-- Composer
-- Laravel >= 8.x
 - Node.js and npm
 - jQuery version 3.6.0
 - DataTables version 1.11.5, which relies on jQuery for the data table functionality (searching, sorting, pagination).
 
-## Install PHP dependencies
-composer install
-
-## Install JavaScript dependencies
-npm install
-
-## Setup Instructions
-```bash
-### Step 1: Clone the Repository
-
-
-git clone https://github.com/your-username/display.git
-cd display
-
-### Step 2: Serve the application
-
-php artisan serve
-### By default, the application will be available at http://127.0.0.1:8000.
-```
 ## Project Structure
 
 - web.php: Defines the route for the home page.
