@@ -4,11 +4,7 @@ This project fetches and displays RSS feed data from the Times of India using La
 
 RSS feed: https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms?feedtype=json
 
-## Requirements
-
-- Node.js and npm
-- jQuery version 3.6.0
-- DataTables version 1.11.5, which relies on jQuery for the data table functionality (searching, sorting, pagination).
+DataTables version 1.11.5, which relies on jQuery for the data table functionality (searching, sorting, pagination).
 
 ## Project Structure
 
